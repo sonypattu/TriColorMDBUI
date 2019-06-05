@@ -1,0 +1,45 @@
+{
+  "data": [{
+    "carTitle": "GMC Sierra HD",
+    "id": "1",
+    "url": "img/cars/dodgeram.jpg",
+    "miles": "38000 millas",
+    "price": "$3,761"
+  },
+  {
+    "carTitle": "GMC Sierra HD",
+    "id": "1",
+    "url": "img/cars/financiacon.jpg",
+    "miles": "38000 millas",
+    "price": "$3,761"
+  },
+  {
+    "carTitle": "GMC Sierra HD",
+    "id": "1",
+    "url": "img/cars/sierra1.jpg",
+    "miles": "38000 millas",
+    "price": "$3,761"
+  },
+  {
+    "carTitle": "GMC Sierra HD",
+    "id": "1",
+    "url": "img/cars/sierra2.jpg",
+    "miles": "38000 millas",
+    "price": "$3,761"
+  },
+  {
+    "carTitle": "GMC Sierra HD",
+    "id": "1",
+    "url": "img/cars/sierra3.jpg",
+    "miles": "38000 millas",
+    "price": "$3,761"
+  },
+    {
+      "carTitle": "GMC Sierra HD",
+      "id": "1",
+      "url": "img/cars/silverado.jpg",
+      "miles": "38000 millas",
+      "price": "$3,761"
+    }]
+
+}

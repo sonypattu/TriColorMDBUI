@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="827faf50-2cd7-47b8-914b-e409b2b88092" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TriColorMDBUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/datatables-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/datatables-select.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/datatables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/datatables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/directives.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/addons/directives.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.lite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.lite.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mdb.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/modules/animations-extended.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/modules/animations-extended.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/roboto/Roboto-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cars/dodgeram.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cars/financiacon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cars/sierra1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cars/sierra2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cars/sierra3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cars/silverado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/default-skin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/default-skin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lightbox/preloader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/overlays/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/arrow_left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/arrow_right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/svg/flags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/datatables-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/datatables-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/datatables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/datatables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/jquery.zmd.hierarchical-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/jquery.zmd.hierarchical-display.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/masonry.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/addons/rating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/customised.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mdb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/mdb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/bs-custom-file-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/default-file-input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/enhanced-modals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/forms-free.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/jquery.easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/scrolling-navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/treeview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/velocity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/velocity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/waves.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/modules/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/carpool.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_custom-skin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_custom-styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_custom-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/addons/_datatables-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/addons/_datatables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/addons/_directives.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/addons/_flags.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/addons/_hierarchical-display.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_masks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/_waves.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/bootstrap/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/bootstrap/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/core/bootstrap/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_animations-basic.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_badges.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_cards.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_carousels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_depreciated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_dropdowns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_footers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_loader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_modals.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_msc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_navbars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_steppers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_switch.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/_treeview.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/modules/animations-extended/_module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/free/modules/animations-extended/animations-extended.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/mdb.lite.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/mdb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/TriColorMDBUI.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TriColorMDBUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TriColorMDBUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TriColorMDBUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TriColorMDBUI" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="827faf50-2cd7-47b8-914b-e409b2b88092" name="Default Changelist" comment="" />
+      <created>1559736977736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559736977736</updated>
+      <workItem from="1559736980070" duration="290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="290000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24968314" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
