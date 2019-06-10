@@ -12,7 +12,6 @@
       "carTitle": "Chevrolete Silverdo",
       "id": "1",
       "url": "img/cars/silverado.jpg",
-
       "miles": "38000 millas",
       "price": "$3,761",
       "category": "4Seater"
@@ -72,6 +71,33 @@
       "miles": "38000 millas",
       "price": "$3,761",
       "category": "10Seater"
+    },
+    {
+      "carTitle": "GMC Sierra HD",
+      "id": "1",
+      "url": "img/cars/silverado.jpg",
+      "miles": "38000 millas",
+      "price": "$3,761",
+      "category": "10Seater"
+    },
+    {
+      "carTitle": "GMC Sierra HD",
+      "id": "1",
+      "url": "img/cars/silverado.jpg",
+      "miles": "38000 millas",
+      "price": "$3,761",
+      "category": "10Seater"
+    },
+    {
+      "carTitle": "GMC Sierra HD",
+      "id": "1",
+      "url": "img/cars/silverado.jpg",
+      "miles": "38000 millas",
+      "price": "$3,761",
+      "category": "10Seater"
     }
+
   ]
 }
+
+

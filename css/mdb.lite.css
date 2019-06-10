@@ -1164,16 +1164,16 @@
   background-color: rgba(62, 69, 81, 0.7); }
 
 .primary-color, ul.stepper li.active a .circle, ul.stepper li.completed a .circle {
-  background-color: #4285f4 !important; }
+  background-color: #DD232C !important; }
 
 .primary-color-dark {
-  background-color: #0d47a1 !important; }
+  background-color: #C20017 !important; }
 
 .secondary-color {
-  background-color: #aa66cc !important; }
+  background-color: #6B6F74 !important; }
 
 .secondary-color-dark {
-  background-color: #9933cc !important; }
+  background-color: #292D31 !important; }
 
 .default-color {
   background-color: #2bbbad !important; }
